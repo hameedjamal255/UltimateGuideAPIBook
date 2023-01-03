@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dYYavqagQcoz24x7XAI3pUOL/WVQWcMfAo4iF1artsK4Dv5O3sv6L+rTAk3fg72lsyUyjx1Zu9XP3s7jY/Pi4A==",
+  "dgSpecHash": "M/hnhZPGe/31r+DClgt34HtpfbuS77+cWkc24HEXiMrm/AI3WJtD+okDQMxgN6cAl32XkJdd3mAa4ancvrbAyQ==",
   "success": true,
-  "projectFilePath": "E:\\API\\UltimateGuide_APi\\Entities\\Entities.csproj",
+  "projectFilePath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

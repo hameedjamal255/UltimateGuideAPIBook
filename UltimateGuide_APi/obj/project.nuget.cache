@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pNk48S6MwSh0E9xBAvFg1ZpzqzlRV85WK2tMUO/MygHon3kJ7Y/yAG9KIbf9VjfSioUiXxoLrSOEYPsF+SAgWA==",
+  "dgSpecHash": "VhNIwRdGypcL+Eom8CsfJjbIQlahlicfz5rDNs9z6WkxBshwYscqHBNmf8lHSkNcrxzEOUnTk27ySMGbbn0img==",
   "success": true,
-  "projectFilePath": "E:\\API\\UltimateGuide_APi\\UltimateGuide_APi\\UltimateGuide_APi.csproj",
+  "projectFilePath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\UltimateGuide_APi\\UltimateGuide_APi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

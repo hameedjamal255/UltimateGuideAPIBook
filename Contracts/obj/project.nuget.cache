@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QbhuTHcj8MCyOPW4rpSr2yhHjQwt8msL81JnzLdz03gn5YMUfuJrd6jE/T1sUHhFzX43kOdoY0NeZIUyzmIZUQ==",
+  "dgSpecHash": "27Bm8hIgAt8rAGhdyZ8gzIRGzGee/YTWZuqCI3gMJZS+AkRZHEeT+RVUtqOVJ7G66C4PHqkhyNyPpDrurJrrKA==",
   "success": true,
-  "projectFilePath": "E:\\API\\UltimateGuide_APi\\Contracts\\Contracts.csproj",
+  "projectFilePath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

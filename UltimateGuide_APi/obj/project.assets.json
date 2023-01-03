@@ -5929,11 +5929,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\API\\UltimateGuide_APi\\UltimateGuide_APi\\UltimateGuide_APi.csproj",
+      "projectUniqueName": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\UltimateGuide_APi\\UltimateGuide_APi.csproj",
       "projectName": "UltimateGuide_APi",
-      "projectPath": "E:\\API\\UltimateGuide_APi\\UltimateGuide_APi\\UltimateGuide_APi.csproj",
+      "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\UltimateGuide_APi\\UltimateGuide_APi.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\API\\UltimateGuide_APi\\UltimateGuide_APi\\obj\\",
+      "outputPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\UltimateGuide_APi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
@@ -5955,11 +5955,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\API\\UltimateGuide_APi\\Entities\\Entities.csproj": {
-              "projectPath": "E:\\API\\UltimateGuide_APi\\Entities\\Entities.csproj"
+            "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\Entities.csproj": {
+              "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\Entities.csproj"
             },
-            "E:\\API\\UltimateGuide_APi\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "E:\\API\\UltimateGuide_APi\\LoggerService\\LoggerService.csproj"
+            "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\LoggerService\\LoggerService.csproj"
             }
           }
         }

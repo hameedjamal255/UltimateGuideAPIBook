@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\API\\UltimateGuide_APi\\Contracts\\Contracts.csproj": {}
+    "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Contracts\\Contracts.csproj": {}
   },
   "projects": {
-    "E:\\API\\UltimateGuide_APi\\Contracts\\Contracts.csproj": {
+    "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\API\\UltimateGuide_APi\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "E:\\API\\UltimateGuide_APi\\Contracts\\Contracts.csproj",
+        "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\API\\UltimateGuide_APi\\Contracts\\obj\\",
+        "outputPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"

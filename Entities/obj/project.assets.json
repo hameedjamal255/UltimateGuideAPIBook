@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\API\\UltimateGuide_APi\\Entities\\Entities.csproj",
+      "projectUniqueName": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "E:\\API\\UltimateGuide_APi\\Entities\\Entities.csproj",
+      "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\API\\UltimateGuide_APi\\Entities\\obj\\",
+      "outputPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"

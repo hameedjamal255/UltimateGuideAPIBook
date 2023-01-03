@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/7jkElps3toNVMlhVXVkj0ZHhg/Btia9f+4XskmZPkxZHcPKdscrTlHUChoZPrqunuv0WrE5ThKqJJ5lqXNVkQ==",
+  "dgSpecHash": "9bGUFUIPzr6TbULGJT43EqnBoske+80EiwF51IAV6D+mJEcA7toisBldnUhUX6pYKU2RdASJ9JJE2NElYXBxhw==",
   "success": true,
-  "projectFilePath": "E:\\API\\UltimateGuide_APi\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",

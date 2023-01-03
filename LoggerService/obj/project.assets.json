@@ -352,11 +352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\API\\UltimateGuide_APi\\LoggerService\\LoggerService.csproj",
+      "projectUniqueName": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\LoggerService\\LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "E:\\API\\UltimateGuide_APi\\LoggerService\\LoggerService.csproj",
+      "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\LoggerService\\LoggerService.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\API\\UltimateGuide_APi\\LoggerService\\obj\\",
+      "outputPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\LoggerService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
@@ -378,8 +378,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\API\\UltimateGuide_APi\\Contracts\\Contracts.csproj": {
-              "projectPath": "E:\\API\\UltimateGuide_APi\\Contracts\\Contracts.csproj"
+            "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Contracts\\Contracts.csproj": {
+              "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Contracts\\Contracts.csproj"
             }
           }
         }
