@@ -1,9 +1,11 @@
-﻿using Entities;
+﻿using Contracts;
+using Entities;
 using LoggerService;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Repository;
 
 namespace UltimateGuide_APi.Extensions
 {
@@ -29,5 +31,9 @@ namespace UltimateGuide_APi.Extensions
 IConfiguration configuration) =>
  services.AddDbContext<RepositoryContext>(opts =>
  opts.UseSqlServer(configuration.GetConnectionString("sqlConnection")));
+
+        public static void ConfigureRepositoryManager(this IServiceCollection services) =>
+            services.AddScoped<IRepositoryManager, RepositoryManager>();
+
     }
 }

@@ -32,7 +32,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -207,6 +211,78 @@
         }
       }
     },
+    "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/UrmxFoRXEMFigPbtxwABpEqzTYywPurSlTW8PbfqCi4AeVgnRd/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Contracts\\Contracts.csproj": {
+                "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Contracts\\Contracts.csproj"
+              },
+              "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\UltimateGuide_APi\\UltimateGuide_APi.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -236,11 +312,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\Entities.csproj": {
-                "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Entities\\Entities.csproj"
-              },
               "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\LoggerService\\LoggerService.csproj": {
                 "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\LoggerService\\LoggerService.csproj"
+              },
+              "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Repository\\Repository.csproj": {
+                "projectPath": "E:\\EpiCenterNewCLone\\UltimateGuideAPIBook\\Repository\\Repository.csproj"
               }
             }
           }
@@ -255,6 +331,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.0, )"

@@ -8,3 +8,16 @@ E:\API\UltimateGuide_APi\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInf
 E:\API\UltimateGuide_APi\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
 E:\API\UltimateGuide_APi\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
 E:\API\UltimateGuide_APi\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.AssemblyReference.cache
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\obj\Debug\netcoreapp3.1\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb

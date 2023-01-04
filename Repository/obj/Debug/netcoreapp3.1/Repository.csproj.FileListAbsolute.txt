@@ -1,0 +1,15 @@
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

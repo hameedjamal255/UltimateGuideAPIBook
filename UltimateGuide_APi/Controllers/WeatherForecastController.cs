@@ -1,4 +1,5 @@
-﻿using LoggerService;
+﻿using Contracts;
+using LoggerService;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -12,41 +13,53 @@ namespace UltimateGuide_APi.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        private static readonly string[] Summaries = new[]
+        private readonly IRepositoryManager _repository;
+        public WeatherForecastController(IRepositoryManager repository)
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-        };
-
-        private readonly ILogger<WeatherForecastController> _logger;
-        private readonly ILoggerManager _logger1;
-
-        public WeatherForecastController(ILogger<WeatherForecastController> logger, ILoggerManager logger1)
-        {
-            _logger = logger;
-            _logger1 = logger1;
+            _repository = repository;
         }
-
-        //[HttpGet]
-        //public IEnumerable<WeatherForecast> Get()
-        //{
-        //    var rng = new Random();
-        //    return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-        //    {
-        //        Date = DateTime.Now.AddDays(index),
-        //        TemperatureC = rng.Next(-20, 55),
-        //        Summary = Summaries[rng.Next(Summaries.Length)]
-        //    })
-        //    .ToArray();
-        //}
         [HttpGet]
-        public IEnumerable<string> Gets()
+        public ActionResult<IEnumerable<string>> Get()
         {
-            _logger1.LogInfo("Here is info message from our values controller.");
-            _logger1.LogDebug("Here is debug message from our values controller.");
-            _logger1.LogWarn("Here is warn message from our values controller.");
-            _logger1.LogError("Here is an error message from our values controller.");
+            //_repository.Company.AnyMethodFromCompanyRepository();
+            //_repository.Employee.AnyMethodFromEmployeeRepository();
             return new string[] { "value1", "value2" };
         }
+        //private static readonly string[] Summaries = new[]
+        //{
+        //    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        //};
+
+        //private readonly ILogger<WeatherForecastController> _logger;
+        //private readonly ILoggerManager _logger1;
+
+        //public WeatherForecastController(ILogger<WeatherForecastController> logger, ILoggerManager logger1)
+        //{
+        //    _logger = logger;
+        //    _logger1 = logger1;
+        //}
+
+        ////[HttpGet]
+        ////public IEnumerable<WeatherForecast> Get()
+        ////{
+        ////    var rng = new Random();
+        ////    return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+        ////    {
+        ////        Date = DateTime.Now.AddDays(index),
+        ////        TemperatureC = rng.Next(-20, 55),
+        ////        Summary = Summaries[rng.Next(Summaries.Length)]
+        ////    })
+        ////    .ToArray();
+        ////}
+        //[HttpGet]
+        //public IEnumerable<string> Gets()
+        //{
+        //    _logger1.LogInfo("Here is info message from our values controller.");
+        //    _logger1.LogDebug("Here is debug message from our values controller.");
+        //    _logger1.LogWarn("Here is warn message from our values controller.");
+        //    _logger1.LogError("Here is an error message from our values controller.");
+        //    return new string[] { "value1", "value2" };
+        //}
 
     }
 }

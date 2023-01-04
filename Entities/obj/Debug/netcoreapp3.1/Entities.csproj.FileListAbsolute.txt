@@ -11,3 +11,16 @@ E:\API\UltimateGuide_APi\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
 E:\API\UltimateGuide_APi\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
 E:\API\UltimateGuide_APi\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
 E:\API\UltimateGuide_APi\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+E:\EpiCenterNewCLone\UltimateGuideAPIBook\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
